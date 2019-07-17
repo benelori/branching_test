@@ -1,5 +1,7 @@
 <?php
 
+namespace App\Test;
+
 class Bar
 {
     /**
