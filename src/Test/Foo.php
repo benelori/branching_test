@@ -6,6 +6,6 @@ class Foo
 {
     public function __construct()
     {
-        var_dump('foo');
+        var_dump('foo feature 11');
     }
 }
