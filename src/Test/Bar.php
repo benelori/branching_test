@@ -9,6 +9,6 @@ class Bar
      */
     public function __construct()
     {
-        var_dump('bar');
+        var_dump('bar feature 1');
     }
 }
